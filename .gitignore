@@ -1,0 +1,5 @@
+envVoice/
+*.mp3
+*.wav
+__pycache__/
+.DS_Store
